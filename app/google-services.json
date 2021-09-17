@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "358443568014",
+    "firebase_url": "https://fir-upload-example-47331-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-upload-example-47331",
+    "storage_bucket": "fir-upload-example-47331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358443568014:android:5d76fc2de3525ee14c72df",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwhDuBjKRQbEbqcDTlI_GkQ5N5fkWero"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358443568014:android:b156e9d205a4ae034c72df",
+        "android_client_info": {
+          "package_name": "com.firebaseuploadexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwhDuBjKRQbEbqcDTlI_GkQ5N5fkWero"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358443568014:android:1e4dd1bfd54ce6bc4c72df",
+        "android_client_info": {
+          "package_name": "com.koesterlich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwhDuBjKRQbEbqcDTlI_GkQ5N5fkWero"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358443568014-ma2b5p6sjs9rol2tb6ds4mhhon9ahdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

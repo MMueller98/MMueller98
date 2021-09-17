@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:backgroundTint="@color/orange_main"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:titleTextAppearance="@style/Toolbar.TitleText"
+        android:background="@color/orange_main"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rezept der Woche"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/txt1"
+        android:layout_marginBottom="15dp"
+        android:textSize="14pt"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hier könnte dein Rezept stehen!"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="10pt"/>
+
+
+
+</RelativeLayout>
